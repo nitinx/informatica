@@ -1,6 +1,6 @@
 
 # Informatica File Compare
-## Project: Finding Donors for CharityML
+## Informatica Marketplace Solution
 
 ## Business Requirement
 Metadata-driven file comparison utility that automates regression testing of delimited flat files and significantly reduces the testing/comparison effort involved.
